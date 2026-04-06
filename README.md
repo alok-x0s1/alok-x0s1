@@ -3,8 +3,7 @@ name: [Alok Yadav]
 located_in: [Lucknow, India]
 job: [Frontend Developer]
 education: ["Bachelor's in Computer Applications"]
-fields_of_interests:
-    [Full-stack Development, Backend Systems, Progressive Web Apps]
+fields_of_interests: [Full-stack Development, Backend Systems, Progressive Web Apps]
 currently_learning: [Artificial Intelligence, DevOps]
 will_learn: [Machine Learning, Deep Learning]
 ```
@@ -53,8 +52,8 @@ will_learn: [Machine Learning, Deep Learning]
 <img src="https://raw.githubusercontent.com/alok-x0s1/alok-x0s1/output/snake.svg" alt="Snake animation" width="100%" />
 
 <p style="display:flex; gap: 6px;">
-  <img src="https://alok-github-stats.vercel.app/api?username=alok-x0s1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-x0s1&theme=dracula&hide_border=false" height="180" />
+  <img src="https://alok-github-stats.vercel.app/api?username=alok-x0s1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-x0s1&theme=dracula&hide_border=false" height="160" />
 </p>
 
 <p style="display:flex; gap: 6px;">
@@ -64,7 +63,7 @@ will_learn: [Machine Learning, Deep Learning]
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alok-x0s1&radius=12&theme=github-dark-dimmed&area=true&order=5&hide_title=true" height="100%" width="100%" alt="activity-graph graph"  />
 
-  <!-- <img src="https://komarev.com/ghpvc/?username=alok-x0s1&style=flat-square&color=000000&labelColor=000000" /> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=alok-x0s1&style=flat-square&color=000000&labelColor=000000" /> -->
 
 <div align="center">
 
