@@ -52,13 +52,13 @@ will_learn: [Machine Learning, Deep Learning]
 <img src="https://raw.githubusercontent.com/alok-x0s1/alok-x0s1/output/snake.svg" alt="Snake animation" width="100%" />
 
 <p style="display:flex; gap: 6px;">
-  <img src="https://alok-github-stats.vercel.app/api?username=alok-x0s1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alok-x0s1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-x0s1&theme=dracula&hide_border=false" height="160" />
 </p>
 
 <p style="display:flex; gap: 6px;">
   <img src="https://github-trophies.vercel.app?username=alok-x0s1" height="160" />
-  <img src="https://alok-github-stats.vercel.app/api/top-langs?username=alok-x0s1&layout=compact&theme=dracula" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alok-x0s1&layout=compact&theme=dracula" height="160" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alok-x0s1&radius=12&theme=github-dark-dimmed&area=true&order=5&hide_title=true" height="100%" width="100%" alt="activity-graph graph"  />
