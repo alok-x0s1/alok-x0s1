@@ -1,11 +1,11 @@
 ```yaml
-name: [Alok Yadav]
-located_in: [Lucknow, India]
-job: [Frontend Developer]
+name: ["Alok Yadav"]
+located_in: ["Lucknow", "India"]
+job: ["Frontend Developer"]
 education: ["Bachelor's in Computer Applications"]
-fields_of_interests: [Full-stack Development, Backend Systems, Progressive Web Apps]
-currently_learning: [Artificial Intelligence, DevOps]
-will_learn: [Machine Learning, Deep Learning]
+fields_of_interests: ["Full-stack Development", "Backend Systems", "Progressive Web Apps"]
+currently_learning: ["Artificial Intelligence", "DevOps"]
+will_learn: ["Machine Learning", "Deep Learning"]
 ```
 
 <table width="100%" style="width:100%; table-layout: fixed; border-collapse: collapse; text-align: center;">
@@ -67,10 +67,10 @@ will_learn: [Machine Learning, Deep Learning]
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/03aey)
-[![Linktree](https://img.shields.io/badge/Linktree-06C755?logo=linktree&logoColor=white)](https://linktr.ee/03aey)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://03aey.vercel.app)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@03aey)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/03aey)
+[![GitHub](https://img.shields.io/badge/GitHub-03aey-181717?logo=github&logoColor=white)](https://github.com/03aey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2F03aey-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/03aey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-03aey.vercel.app-000000?logo=vercel&logoColor=white)](https://03aey.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-03aey-12100E?logo=medium&logoColor=white)](https://medium.com/@03aey)
+[![Linktree](https://img.shields.io/badge/Linktree-03aey-43E55E?logo=linktree&logoColor=white)](https://03aey.vercel.app)
 
 </div>
